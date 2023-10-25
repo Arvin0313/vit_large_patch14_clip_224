@@ -1,0 +1,2 @@
+# vit_large_patch14_clip_224
+vit_large_patch14_clip_224
